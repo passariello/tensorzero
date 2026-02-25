@@ -1,7 +1,6 @@
 alembic==1.15.2
 annotated-types==0.7.0
 anyio==4.9.0
-appnope==0.1.4
 asttokens==3.0.0
 certifi==2025.1.31
 clickhouse-connect==0.8.15
@@ -40,7 +39,7 @@ packaging==24.2
 pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
-pillow==11.1.0
+pillow==12.1.1
 platformdirs==4.3.7
 prompt-toolkit==3.0.50
 psutil==7.0.0
@@ -66,7 +65,7 @@ tqdm==4.67.1
 traitlets==5.14.3
 typing-extensions==4.13.1
 tzdata==2025.1
-urllib3==2.3.0
+urllib3==2.6.3
 uuid-utils==0.10.0
 wcwidth==0.2.13
 zstandard==0.23.0
